@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-filename = "/Users/parkerhewitt/Code/Personal/Python/clefftop/images/many-staff.jpg"
+filename = "/Users/parkerhewitt/Code/Personal/Python/clefftop/images/one-staff.png"
 img = cv2.imread(filename)
 print("img dimensions: %s" % str(img.shape))
 
